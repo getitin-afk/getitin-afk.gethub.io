@@ -151,14 +151,14 @@
     <div id="music" class="content">
       <strong>No Guidance — Drake ft Chris Brown</strong>
       <audio controls>
-        <source src="jayy/no-guidance.mp3" type="audio/mpeg">
+        <source src="jayy/no-guidance.mp3" type="audio/mp3">
       </audio>
 
       <br><br>
 
       <strong>WGFT — Gunna</strong>
       <audio controls>
-        <source src="jayy/wgft.mp3" type="audio/mpeg">
+        <source src="jayy/wgft.mp3" type="audio/mp3">
       </audio>
     </div>
 
