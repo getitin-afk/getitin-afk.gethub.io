@@ -1,1 +1,10 @@
-
+[no-guidance.mp3.mp3](https://github.com/user-attachments/files/25072700/no-guidance.mp3.mp3)
+[index.html](https://github.com/user-attachments/files/25072699/index.html)
+![image7](https://github.com/user-attachments/assets/236f7d55-eaac-4d9c-a965-d8c938b72c7d)
+![image6](https://github.com/user-attachments/assets/2c39a857-ef57-4ba2-95ea-e7c07ce15507)
+![image5](https://github.com/user-attachments/assets/9df9d84c-dffe-47df-9ad6-4306e5352411)
+![image4](https://github.com/user-attachments/assets/37db0dfd-2575-4ef6-a45b-c6786edea9bf)
+![image3](https://github.com/user-attachments/assets/1a336a03-3334-4010-9924-afb1eb4aee37)
+![image2](https://github.com/user-attachments/assets/7ac1dccd-c6d1-4b53-93ae-247c41cd731e)
+![image1](https://github.com/user-attachments/assets/0335a37b-9206-441f-969e-b10011a95396)
+[wgft.mp3.mp3](https://github.com/user-attachments/files/25072762/wgft.mp3.mp3)
